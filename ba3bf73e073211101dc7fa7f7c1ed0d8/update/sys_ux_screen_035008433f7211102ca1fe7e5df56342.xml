@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Innovate Config">cf500843137211100e7e3f0185458841</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Search results">72e447ee0b621010a8b1c96237673a7e</macroponent>
+        <macroponent_config/>
+        <name>Search Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Search">83500843de72111051498e2c472d9340</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:30:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>035008433f7211102ca1fe7e5df56342</sys_id>
+        <sys_name>Search Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_ux_screen_035008433f7211102ca1fe7e5df56342</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=035008433f7211102ca1fe7e5df56342"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id/>
+        <limit>5</limit>
+        <order>400</order>
+        <section_header>Suggested results</section_header>
+        <suggestion_type>Suggested Result Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:30:17</sys_created_on>
+        <sys_id>c350084306721110a539cde09f70873c</sys_id>
+        <sys_name>Suggested Result Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_c350084306721110a539cde09f70873c</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>

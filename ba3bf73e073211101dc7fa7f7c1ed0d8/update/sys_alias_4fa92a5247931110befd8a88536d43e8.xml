@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_929428_innovate.Github</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Github</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-23 17:27:43</sys_created_on>
+        <sys_id>4fa92a5247931110befd8a88536d43e8</sys_id>
+        <sys_name>x_929428_innovate.Github</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_alias_4fa92a5247931110befd8a88536d43e8</sys_update_name>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
