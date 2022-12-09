@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'Demo Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">2535396f472bd110befd8a88536d43de</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-09 21:04:50</sys_created_on>
+        <sys_id>2935396f472bd110befd8a88536d43e3</sys_id>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_2935396f472bd110befd8a88536d43e3</sys_update_name>
+        <test_suite display_value="Demo Test Suite">b406f49147235110befd8a88536d4300</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+</record_update>
