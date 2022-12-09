@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appInnovate">4d604843077211101dc7fa7f7c1ed07f</applicability>
+        <list display_value="All">41604843077211101dc7fa7f7c1ed0cc</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:30:22</sys_created_on>
+        <sys_id>c5604843077211101dc7fa7f7c1ed0d2</sys_id>
+        <sys_name/>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_c5604843077211101dc7fa7f7c1ed0d2</sys_update_name>
+    </sys_ux_applicability_m2m_list>
+</record_update>

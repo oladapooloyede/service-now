@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>All Dashboards</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:30:16</sys_created_on>
+        <sys_id>8f500843847211100c6b7cb7a8d85f3c</sys_id>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_ux_screen_type_8f500843847211100c6b7cb7a8d85f3c</sys_update_name>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=8f500843847211100c6b7cb7a8d85f3c"/>
+</record_update>

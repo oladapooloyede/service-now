@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Innovate Config">cf500843137211100e7e3f0185458841</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>List</name>
+        <optional_parameters>listId,configId,tinyId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>list</route_type>
+        <screen_type display_value="List">c7500843e5721110f288745283a25b3c</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:30:17</sys_created_on>
+        <sys_id>c7500843967211102a2429c349e0253a</sys_id>
+        <sys_name>List</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_ux_app_route_c7500843967211102a2429c349e0253a</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7500843967211102a2429c349e0253a"/>
+</record_update>
