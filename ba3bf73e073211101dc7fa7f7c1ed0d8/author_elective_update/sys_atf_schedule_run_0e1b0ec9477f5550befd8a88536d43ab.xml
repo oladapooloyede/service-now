@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'Application Deployment Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">391b0ec9477f5550befd8a88536d43a9</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 14:31:19</sys_created_on>
+        <sys_id>0e1b0ec9477f5550befd8a88536d43ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_0e1b0ec9477f5550befd8a88536d43ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 14:31:19</sys_updated_on>
+        <test_suite display_value="Application Deployment Test Suite">d2f773f853603010b846ddeeff7b1277</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</application>
+        <file_path/>
+        <instance_id>f72c43cbdb72dd58387021c4059619a7</instance_id>
+        <instance_name>dev143145</instance_name>
+        <name>sys_atf_schedule_run_0e1b0ec9477f5550befd8a88536d43ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'Application Deployment Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="CICD adhoc schedule">391b0ec9477f5550befd8a88536d43a9</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-14 14:31:19</sys_created_on><sys_id>0e1b0ec9477f5550befd8a88536d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package><sys_policy/><sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope><sys_update_name>sys_atf_schedule_run_0e1b0ec9477f5550befd8a88536d43ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-14 14:31:19</sys_updated_on><test_suite display_value="Application Deployment Test Suite">d2f773f853603010b846ddeeff7b1277</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>-1517116286</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>32abf903475fd110befd8a88536d4334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 14:31:19</sys_created_on>
+        <sys_id>4a1b0ec9477f5550befd8a88536d43b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185110c08140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 14:31:19</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>821b0ec9667f555006949589d94347b0</update_guid>
+        <update_guid_history>821b0ec9667f555006949589d94347b0:-1517116286</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 14:31:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>5e3efde9a86545c8a6483154897b0640</sys_id>
+        <sys_metadata>0e1b0ec9477f5550befd8a88536d43ab</sys_metadata>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Innovate" source="x_929428_innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">ba3bf73e073211101dc7fa7f7c1ed0d8</sys_scope>
+        <sys_scope_delete display_value="">a4b684beea5f4d1e9ddab3aff4e0d4f1</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_0e1b0ec9477f5550befd8a88536d43ab</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_0e1b0ec9477f5550befd8a88536d43ab">4a1b0ec9477f5550befd8a88536d43b0</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
